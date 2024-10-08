@@ -1,0 +1,32 @@
+---
+format: html
+---
+
+## [**Chemical**]{style="color: #d4820a"} ![](images/chemical.png){height="50px"}\newline\newline
+
+***Soil pH*** greatly affects which microbial populations
+can live in the soil. Soil pH is impacted by inherent qualities of
+the soil such as its age, mineralogy, and rainfall zone. It is also impacted by
+fertilization, irrigation water pH, and SOM content. Most agricultural crops
+grow best in neutral soil pHs, within a range of 6 to 8. 
+
+
+<!-- Image wrapped around text for HTML -->
+
+::: {.content-visible when-format="html"}
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/tn.png){width="3.5in"
+style="float:right"
+fig-alt="Total Nitrogen (TN) measures different forms of nitrogen in the soil and is closely related to soil productivity. There is a large circle with two smaller circles inside that are labeled Organic N pools (not available, but can be made available during the growing season through microbial processing) and Inorganic N pools (changes very quickly and should be measured often but plant available). Inside the Organic N pools circle are two more circles labeled potentially mineralizable nitrogen and ACE soil protein. Inside the Inorganic N pools circle are two more circles labeled nitrate and ammonium."}
+:::
+
+***Total Nitrogen*** is a measurement of both inorganic (plant-available nitrate and ammonium) and organic (typically not plant-available) nitrogen in the soil. Having sufficient total nitrogen in the soil is key for promoting mineralization, or the process of changing the organic nitrogen to a form that plants can use. This was measured with dry, ground soils via dry combustion on a Costech Elemental Analyzer.
+
+***Carbon to Nitrogen Ratio** in agricultural soils in annual systems generally have a C:N ratio of 10:1, which leads to faster cycling of N. This can be ideal for crops when demand for N is high. High C:N ratios tend to lead to N immobilization as microbes consume most of the available N, which can lead to crop deficiencies. Low C:N ratios can lead to harmful losses of N to the environment. 
+
+<!-- Image below around text for docx -->
+
+::: {.content-visible unless-format="html"}
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/tn.png){height="3.5in"
+fig-alt="Total Nitrogen (TN) measures different forms of nitrogen in the soil and is closely related to soil productivity. There is a large circle with two smaller circles inside that are labeled Organic N pools (not available, but can be made available during the growing season through microbial processing) and Inorganic N pools (changes very quickly and should be measured often but plant available). Inside the Organic N pools circle are two more circles labeled potentially mineralizable nitrogen and ACE soil protein. Inside the Inorganic N pools circle are two more circles labeled nitrate and ammonium."}
+:::
+

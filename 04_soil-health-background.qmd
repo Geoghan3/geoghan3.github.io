@@ -1,0 +1,119 @@
+---
+format: html
+---
+
+## Soil Health and Function
+
+Soil health is tied to function and processes that define a soil’s capacity to thrive as a living ecosystem that supports life. In this agricultural context, it is primarily important as it relates to the production of quality crops that supports human life, buffers against environmental stressors, and with semi-natural and natural habitat maintenance. Function includes physical, chemical, and biological properties governed by soil parent material and influenced by management. 
+
+::: {.content-visible when-format="html"}
+::: {.callout-tip icon="false"}
+## Qualities of a Healthy Agricultural Soil
+
+-   Soil aggregation for carbon and nutrient storage and root exploration
+-   pH (6--8) to maximize nutrient availability and minimize toxicity
+-   Sufficient---but not excessive---nutrient supply for crop growth
+-   Tight Carbon and nutrient cycling, to improve use efficiency, plant availability, and reduce harmful losses 
+-   Adequate soil drainage, infiltration, and water holding capacity
+-   Diverse and active microbial and invertebrate communities important for carbon and nutrient cycling and pest suppression
+-   No residual chemicals or toxins that may harm the crop, including salts
+-   Resistance to degradation such as from erosion or surface runoff
+:::
+:::
+
+::: {.content-visible unless-format="html"}
+```{r echo=FALSE}
+df <- data.frame(
+  "Qualities of a Healthy Agricultural Soil" = c(
+    "•   Soil aggregation for carbon and nutrient storage and root exploration",
+    "•   pH (6--8) to maximize nutrient availability and minimize toxicity",
+    "•   Sufficient---but not excessive---nutrient supply for crop growth",
+    "•   Tight Carbon and nutrient cycling, to improve use efficiency, plant availability, and reduce harmful losses",
+    "•   Adequate soil drainage, infiltration, and water holding capacity",
+    "•   Diverse and active microbial and invertebrate communities important for carbon and nutrient cycling and pest suppression",
+    "•   No residual chemicals or toxins that may harm the crop, including salts",
+    "•   Resistance to degradation such as from erosion or surface runoff"
+  ),
+  check.names = FALSE
+)
+
+flextable::flextable(df) |>
+  flextable::color(
+    color = header_text_color,
+    part = "header"
+  ) |>
+  flextable::bg(
+    bg = header_color,
+    part = "header"
+  ) |>
+  flextable::vline_left(
+    border = officer::fp_border(
+      color = header_color,
+      width = 3
+    )
+  ) |>
+  flextable::vline_right(
+    border = officer::fp_border(
+      color = header_color,
+      width = 1
+    )
+  ) |>
+  flextable::hline_bottom(
+    border = officer::fp_border(
+      color = header_color,
+      width = 1
+    )
+  ) |>
+  flextable::bg(
+    bg = lighter_color,
+    part = "body"
+  ) |>
+  flextable::align(align = "left", part = "all") |>
+  flextable::fontsize(size = 10) |>
+  flextable::line_spacing(
+    space = 1.5,
+    part = "header"
+  ) |>
+  flextable::line_spacing(
+    space = 1.1,
+    part = "body"
+  ) |>
+  flextable::width(
+    width = 6
+  )
+```
+:::
+
+## Soil Science
+
+A crucial part of understanding soil function is measuring changes in your soil as they relate to your management practices and approaches. There are a number of indicators we can measure to understand the physical, chemical, and biological properties of your soil. Ultimately, understanding how to interpret these indicators and how they relate to your intended goals and outcomes is important towards meaningful improvements and knowledge generation for the agricultural community in the Sacramento Valley.
+
+The Natural Resources Conservation Service (NRCS) provides helpful resorices on the principles of building soil
+health](https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils/soil-health "NRCS principles of building soil health").
+
+## What We Measured in Your Soil
+
+::: {.content-visible when-format="html"}
+::: panel-tabset
+{{< include 05_physical-measurements.qmd >}}
+
+{{< include 06_biological-measurements.qmd >}}
+
+{{< include 07_chemical-measurements.qmd >}}
+:::
+:::
+
+::: {.content-visible unless-format="html"}
+{{< include 05_physical-measurements.qmd >}}
+
+{{< include 06_biological-measurements.qmd >}}
+
+{{< include 07_chemical-measurements.qmd >}}
+:::
+
+## Soil Health Indicators
+
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/curve-table.png){width="6in"}
+
+
+

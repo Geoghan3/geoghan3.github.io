@@ -1,0 +1,41 @@
+﻿measurement_group,measurement_group_label,column_name,order,abbr,unit,abbr_unit
+biological,Biological,som_percent,1,SOM,%,SOM<br>(%)
+biological,Biological,soc_percent,2,SOC,%,SOC<br>(%)
+biological,Biological,net_mb_tnb,3,MBN ,ug/g soil ,MBN<br>(ug/gsoil)
+biological,Biological,net_mb_npoc,4,MBC ,ug/g soil ,MBC<br>(ug/gsoil)
+biological,Biological,co2_72hr_mg_c_kg_soil_day,5,PMC,mg/kg/day,PMC<br>(mg/kg/day)
+biological,Biological,plfa_total_biomass_ngpg,6,PLFA Biomass,ng/g,PLFA Biomass<br>(ng/g)
+biological,Biological,plfa_diversity_index,7,PLFA Diversity Index,,PLFA Diversity
+biological,Biological,plfa_bacteria_ngpg,8,PLFA bacteria ,ng/g,PLFA Bacteria
+biological,Biological,plfa_fungi_ngpg,9,PLFA Fungi,ng/g,PLFA Fungi 
+biological,Biological,plfa_arb_myc_ngpg,10,PLFA AMF,ng/g,PLFA AMF
+biological,Biological,bg_nmol_activity_gdrysoil_hr,11,BG,nmol/activity/gdrysoil/hr,BG
+biological,Biological,cb_nmol_activity_gdrysoil_hr,12,CB,nmol/activity/gdrysoil/hr,CB
+biological,Biological,phos_nmol_activity_gdrysoil_hr,13,PHOS,nmol/activity/gdrysoil/hr,PHOS
+biological,Biological,lap_nmol_activity_gdrysoil_hr,14,LAP,nmol/activity/gdrysoil/hr,LAP
+biological,Biological,nag_nmol_activity_gdrysoil_hr,15,NAG,nmol/activity/gdrysoil/hr,NAG
+chemical,Chemical,ph,1,pH,,pH
+chemical,Chemical,cec_me_per_100g,2,CEC,cmolc/kg,CEC<br>(cmolc/kg)
+chemical,Chemical,total_n_percent,3,Total N,%,Total N<br>(%)
+chemical,Chemical,c_n_ratio,4,C:N,,C:N ratio 
+macro,Plant Essential Macro Nutrients,no3_lb_ac,1,NO₃-N,ppm,NO₃-N<br>(lb/ac)
+macro,Plant Essential Macro Nutrients,p_ppm,2,P,ppm,P<br>(ppm)
+macro,Plant Essential Macro Nutrients,k_ppm,3,K,ppm,K<br>(ppm)
+macro,Plant Essential Macro Nutrients,ca_ppm,4,Ca,ppm,Ca<br>(ppm)
+macro,Plant Essential Macro Nutrients,mg_ppm,5,Mg,ppm,Mg<br>(ppm)
+macro,Plant Essential Macro Nutrients,s_ppm,6,S,ppm,S<br>(ppm)
+micro,Plant Essential Micro Nutrients,b_ppm,1,B,ppm,B<br>(ppm)
+micro,Plant Essential Micro Nutrients,fe_ppm,2,Fe,ppm,Fe<br>(ppm)
+micro,Plant Essential Micro Nutrients,mn_ppm,3,Mn,ppm,Mn<br>(ppm)
+micro,Plant Essential Micro Nutrients,cu_ppm,4,Cu,ppm,Cu<br>(ppm)
+micro,Plant Essential Micro Nutrients,zn_ppm,5,Zn,ppm,Zn<br>(ppm)
+micro,Plant Essential Micro Nutrients,na_ppm,6,Na,ppm,Na<br>(ppm)
+physical,Physical,texture,1,Texture,,Texture
+physical,Physical,sand_percent,2,Sand,%,Sand<br>(%)
+physical,Physical,silt_percent,3,Silt,%,Silt<br>(%)
+physical,Physical,clay_percent,4,Clay,%,Clay<br>(%)
+physical,Physical,bulk_density_g_cm3,5,Bulk Density,g/cm³,Bulk Density<br>(g/cm³)
+physical,Physical,ag_stability_mwd,6,Agg. Stability,%,Agg. Stability<br>(%)
+physical,Physical,field_capacity_g_g_h2o,7,Field Capacity ,g/gH2O,Field Capacity<br>(g/gH2O)
+physical,Physical,wilting_point_g_g_h2o,8,Wilting Point ,g/gH2O,Permanent Wilting Point<br>(g/gH2O)
+physical,Physical,total_available_water_g_g_h2o,9,Total Available Water ,g/gH2O,Total Available Water<br>(g/gH2O) 

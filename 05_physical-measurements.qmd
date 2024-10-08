@@ -1,0 +1,72 @@
+---
+format: html
+---
+
+## [**Physical**]{style="color: #a60f2d"} ![](images/physical.png){height="50px"}\newline\newline
+
+<!-- Image wrapped around text for HTML -->
+
+::: {.content-visible when-format="html"}
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/compaction.png){width="3in"
+style="float:right"
+fig-alt="Comparison between uncompacted and compacted soil. Uncompacted soil particles are more spread out, while compacted soil particles are closed together."}
+:::
+
+***Bulk Density*** is the mass of particles within a
+certain volume of soil used as an indicator of soil compaction.
+We use a bulk density hammer to measure this similar to this:[NRCS
+protocol](https://www.nrcs.usda.gov/sites/default/files/2022-10/Soil%20Bulk%20Density%20Moisture%20Aeration.pdf "NRCS bulk density protocol").
+
+<!-- Image below around text for docx -->
+
+::: {.content-visible unless-format="html"}
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/compaction.png){width="3in"
+fig-alt="Comparison between uncompacted and compacted soil. Uncompacted soil particles are more spread out, while compacted soil particles are closed together."}
+:::
+
+***Infiltration Rate and Unsaturated Hydraulic Conductivity*** (K unsat)
+measure the rate at which water enters the soil surface and the ease
+with which water is transmitted through the soil, respectively. In
+the case of processing tomatoes in Northern California, it may be
+particularly important in winter fallowed fields and fields with
+furrow irrigation systems. Texture, salinity, plow pans, and soil 
+structure drive water movement in the soil. Infiltration is supported
+by bioturbation and aggregation by ecosystem engineers
+(ants, earthworms, enchytraeids) and plant roots and fungal hyphae.
+We measured infiltration rates and K unsat with  (https://metergroup.com/products/mini-disk-infiltrometer/ "mini disk infiltrometers") 
+in the field in the Winter of 2024. Some sites were tilled 
+before they were dry enough to measure infiltration, and we 
+could not report this variable for those fields. Infiltration
+rate can be also measured as outlined in this Infiltration rate can be also measured as outlined in this [NRCS protocol](https://www.nrcs.usda.gov/sites/default/files/2022-10/Infiltration.pdf "NRCS infiltration protocol"). 
+
+***Wet Aggregate Stability*** measures the resistance 
+of soil aggregates to disintegration. Aggregates form
+when soil particles associate with organic matter,
+plant roots, fungal hyphae, and "glues" made by microbes.
+Stable aggregates can reduce erosion, and increase
+infiltration, drainage, and storage capacity. 
+High clay soils tend to have higher aggregate stability,
+but increasing soil organic matter improves
+aggregate stability across all soil textures.
+We measured wet aggregate stability as mean weight diameter (MWD).
+This measures the proportion of soil weight that
+occurs in different particle size categories
+(8 mm - 2 mm, 2 mm - 250 um, 250 um - 52 um, > 52 um)
+after exposure to artificial rain. We took air-dried
+sieved soils and shook them on a stack of sieves
+while rewetting them. We take weights of the soil
+in each category to calculate a mean weight diameter.
+A higher MWD value means more stable and larger aggregates.  
+
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/aggregate-stability.png){width="5.8in"
+fig-alt="Aggregate held together with organic matter, roots, fungal hyphae, and microbial glues. An arrow with text says aggregate disintegration points toward an aggregate broken apart and text that says particles more prone to erosion."}
+
+***Water Holding Capacity*** (WHC) varies by soil texture
+and bulk density, and can be greatly impacted by management.
+Generally, soils with finer textures, high organic matter,
+and low bulk density have higher WHC. WHC was measured on
+all soil samples by the pressure plates method, and we
+calculated it as the difference between field capacity
+(FC, water content at a pressure of -10 kPa) and
+permanent wilting point (PWP, water content at -1,500 kPa).
+

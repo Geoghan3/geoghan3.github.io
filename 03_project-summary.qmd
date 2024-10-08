@@ -1,0 +1,34 @@
+---
+format: html
+---
+::: {.content-visible when-format="html"}
+
+![](https://raw.githack.com/Geoghan3/Tomatoes-2023/main/Kyle_Ellie_sampling.png){height="2in"
+style="float:right"
+fig-alt="Gaudin lab members collecting soils in 2023 from a tomato field."}
+:::
+
+Thank you for participating in our healthy soils project. We appreciate you allowing us to sample your field(s) and for taking the time to fill out our survey and sit for the farm management interview. This work would not be possible without your collaboration and input.  
+
+The goals of our project are to:
+
+<!-- Image wrapped around text for HTML -->
+
+**1)** Identify the diversity of management approaches and practices on a gradient from conventional to ecological intensification for processing tomato farms in the Sacramento Valley;
+
+**2)** Assess soil multifunctionality (biological, chemical, physical indicators) of tomato fields across this management gradient and;
+
+**3)** Understand the legacy effects (consistent management for 5+ years) of farm management on soil health and function
+
+During the 2023 growing season we sample soils from 18 fields are full bloom/early fruit development.
+
+In 2023 we sampled soil from 18 fields planted to processing tomatoes. Sampling occurred during full bloom/early fruit development when we expect peak activity in the soil ecosystem as the crop has high demand for water and nutrients. We sampled from two depths: the surface down to 6 in where most of a soil's activity is concentrated; and from 6-12 in which cover a large are of wetting from subsurface drip irrigation (SSDI) with 14/18 under SSDI.
+
+This report includes biophysical data from field 26B, management, and comparisons to study wide averages. More in depth data analyzes to identify possible connections between management practices and soil indicators will be included in the next phase of our reporting. We greatly appreciate your patience and we're excited to share these results with you. 
+
+<!-- Image below around text for docx -->
+
+::: {.content-visible unless-format="html"}
+![](https://raw.githack.com/Geoghan3/Tomatoes-2023/main/Kyle_Ellie_sampling.png){height="8in"
+fig-alt="Gaudin lab members collecting soils in 2023 from a tomato field."}
+:::

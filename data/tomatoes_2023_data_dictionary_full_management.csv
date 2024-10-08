@@ -1,0 +1,81 @@
+﻿measurement_group,measurement_group_label,column_name,order,abbr,unit,abbr_unit
+biological,Biological,som_percent,1,Organic Matter,%,Soil Organic Matter<br>(%)
+biological,Biological,soc_percent,2,Soil Organic Carbon,%,SOC<br>(%)
+biological,Biological,net_mb_tnb,3,Microbial Biomass N ,ug/g soil ,Microbial Biomass N<br>(ug/gsoil)
+biological,Biological,net_mb_npoc,4,Microbial Biomass C ,ug/g soil ,Microbial Biomass C<br>(ug/gsoil)
+biological,Biological,co2_72hr_mg_c_kg_soil_day,5,PMC,mg/kg/day,Potentially Mineralizable Carbon<br>(mg/kg/day)
+biological,Biological,plfa_total_biomass_ngpg,6,PLFA Biomass,ng/g,PLFA Biomass<br>(ng/g)
+biological,Biological,plfa_diversity_index,7,PLFA Diversity Index,,PLFA Diversity Index
+biological,Biological,plfa_bacteria_ngpg,8,PLFA bacteria ,ng/g,PLFA Bacteria
+biological,Biological,plfa_fungi_ngpg,9,PLFA Fungi,ng/g,PLFA Fungi 
+biological,Biological,plfa_arb_myc_ngpg,10,PLFA AMF,ng/g,PLFA Arbuscular Mycorrhizal Fungi
+biological,Biological,bg_nmol_activity_gdrysoil_hr,11,BG,nmol/activity/gdrysoil/hr,β-Glucosidase 
+biological,Biological,cb_nmol_activity_gdrysoil_hr,12,CB,nmol/activity/gdrysoil/hr,Cellobiohydrolase
+biological,Biological,phos_nmol_activity_gdrysoil_hr,13,PHOS,nmol/activity/gdrysoil/hr,Leucine Aminopeptidase
+biological,Biological,lap_nmol_activity_gdrysoil_hr,14,LAP,nmol/activity/gdrysoil/hr,N-acetyl-β-glucosaminidase 
+biological,Biological,nag_nmol_activity_gdrysoil_hr,15,NAG,nmol/activity/gdrysoil/hr,Phosphatase
+biological,Biological,panagrolaimus,16,Panagrolaimus,NA,Panagrolaimus
+biological,Biological,rhabditis,17,Rhabditis,NA,Rhabditis
+biological,Biological,cephalobus,18,Cephalobus,NA,Cephalobus
+biological,Biological,eucephalobus,19,Eucephalobus,NA,Eucephalobus
+biological,Biological,acrobeles,20,Acrobeles,NA,Acrobeles
+biological,Biological,acrobeloides,21,Acrobeloides,NA,Acrobeloides
+biological,Biological,plectus,22,Plectus,NA,Plectus
+biological,Biological,prismatolaimus,23,Prismatolaimus,NA,Prismatolaimus
+biological,Biological,aphelenchoides,24,Aphelenchoides,NA,Aphelenchoides
+biological,Biological,aphelenchus,25,Aphelenchus,NA,Aphelenchus
+biological,Biological,dorylaimus,26,Dorylaimus,NA,Dorylaimus
+biological,Biological,qudsianematidae,27,Qudsianematidae,NA,Qudsianematidae
+biological,Biological,mononchidae,28,Mononchidae,NA,Mononchidae
+biological,Biological,microdorylaimus,29,Microdorylaimus,NA,Microdorylaimus
+biological,Biological,tylenchidae,30,Tylenchidae,NA,Tylenchidae
+biological,Biological,paratylenchus,31,Paratylenchus,NA,Paratylenchus
+biological,Biological,tylenchorhynchus,32,Tylenchorhynchus,NA,Tylenchorhynchus
+biological,Biological,pratylenchus,33,Pratylenchus,NA,Pratylenchus
+biological,Biological,helicotylenchus,34,Helicotylenchus,NA,Helicotylenchus
+biological,Biological,diphtherophora,35,Diphtherophora,NA,Diphtherophora
+biological,Biological,xiphinema,36,Xiphinema,NA,Xiphinema
+biological,Biological,trichodorus,37,Trichodorus,NA,Trichodorus
+biological,Biological,tylenchulus,38,Tylenchulus,NA,Tylenchulus
+biological,Biological,meloidogyne,39,Meloidogyne,NA,Meloidogyne
+biological,Biological,cyst,40,Cyst,NA,Cyst
+biological,Biological,herbivores_total_perc,41,Herbivores,%,herbivores<br>(%)
+biological,Biological,fungivores_total_perc,42,Fungivores,%,fungivores<br>(%)
+biological,Biological,bacterivores_total_perc,43,Bacteriovores,%,bacterivores<br>(%)
+chemical,Chemical,ph,1,pH,,pH
+chemical,Chemical,ec_mmhos_cm,2,EC,mmhos/cm,EC<br>(mmhos/cm)
+chemical,Chemical,cec_me_per_100g,3,CEC,cmolc/kg,CEC<br>(cmolc/kg)
+chemical,Chemical,soc_percent,4,SOC,%,SOC<br>(%)
+macro,Plant Essential Macro Nutrients,total_n_percent,1,Total N,%,Total N<br>(%)
+macro,Plant Essential Macro Nutrients,c_n_ratio,2,C:N,,C:N ratio 
+macro,Plant Essential Macro Nutrients,no3_lb_ac,3,NO₃-N,ppm,NO₃-N<br>(lb/ac)
+macro,Plant Essential Macro Nutrients,p_ppm,4,P,ppm,P<br>(ppm)
+macro,Plant Essential Macro Nutrients,k_ppm,5,K,ppm,K<br>(ppm)
+macro,Plant Essential Macro Nutrients,ca_ppm,6,Ca,ppm,Ca<br>(ppm)
+macro,Plant Essential Macro Nutrients,mg_ppm,7,Mg,ppm,Mg<br>(ppm)
+macro,Plant Essential Macro Nutrients,s_ppm,8,S,ppm,S<br>(ppm)
+micro,Plant Essential Micro Nutrients,b_ppm,9,B,ppm,B<br>(ppm)
+micro,Plant Essential Micro Nutrients,fe_ppm,10,Fe,ppm,Fe<br>(ppm)
+micro,Plant Essential Micro Nutrients,mn_ppm,11,Mn,ppm,Mn<br>(ppm)
+micro,Plant Essential Micro Nutrients,cu_ppm,12,Cu,ppm,Cu<br>(ppm)
+micro,Plant Essential Micro Nutrients,zn_ppm,13,Zn,ppm,Zn<br>(ppm)
+micro,Plant Essential Micro Nutrients,na_ppm,14,Na,ppm,Na<br>(ppm)
+physical,Physical,texture,1,Texture,,Texture
+physical,Physical,sand_percent,2,Sand,%,Sand<br>(%)
+physical,Physical,silt_percent,3,Silt,%,Silt<br>(%)
+physical,Physical,clay_percent,4,Clay,%,Clay<br>(%)
+physical,Physical,bulk_density_g_cm3,5,Bulk Density,g/cm³,Bulk Density<br>(g/cm³)
+physical,Physical,ag_stability_mwd,6,Agg. Stability,%,Agg. Stability<br>(%)
+physical,Physical,field_capacity_g_g_h2o,7,Field Capacity ,g/gH2O,Field Capacity<br>(g/gH2O)
+physical,Physical,wilting_point_g_g_h2o,8,Wilting Point ,g/gH2O,Permanent Wilting Point<br>(g/gH2O)
+physical,Physical,total_available_water_g_g_h2o,9,Total Available Water ,g/gH2O,Total Available Water<br>(g/gH2O) 
+management,Management,crop_rotation,1,Rotation,,Crop<br>Rotation
+management,Management,winter_cash_crop,2,Winter Cash,,Winter<br>Cash<br>Crop
+management,Management,cover_crop,3,Cover Crop,,Cover<br>Crop
+management,Management,residue_management,4,Residue Management,,Residue<br>Management
+management,Management,tillage,5,Tillage ,,Tillage
+management,Management,synt_fert,6,Synthetic Fertilizer ,,Synthetic<br>Fertilizer
+management,Management,org_fert,7,Organic fertilizer,,Organic<br>Fertilizer
+management,Management,pest_mgmt,8,Pest Management,,Pest<br>Managemnt
+management,Management,livestock,9,Livestock Integration,,Livestock<br>Integration
+management,Management,borders,10,Field Border Management,,Field<br>Border<br>Management

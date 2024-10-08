@@ -1,0 +1,80 @@
+---
+format: html
+---
+
+## [**Biological**]{style="color: #335c67"} ![](images/biological.png){height="50px"}\newline\newline
+
+<!-- Image wrapped around text for HTML -->
+
+::: {.content-visible when-format="html"}
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/som.png){width="3.5in"
+style="float:right"
+fig-alt="Soil Organic Matter (SOM) supports most ecosystems services and soil benefits, but slow to change. There are three layers of circles. The most outer circle says 42% other materials. The next inner circle says 58% total organic carbon. There are two circles inside this circle that says potentially mineralizable carbon (microbial respiration essential for nutrient cycling) and permanganate oxidizable carbon (newly stabilized SOM, responds more quickly to management)."}
+:::
+
+***Soil Organic Matter*** (SOM) can be slow to change as the
+result of management. Because of this, many other indicators have been developed
+to detect more sensitive components in SOM. Keep reading to learn more. SOM was measured by dry combustion. To learn more about how to
+increase SOM, read about the [NRCS principles of
+building soil health](https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils/soil-health "NRCS principles of building soil health").
+
+SOM underlies many of the benefits and ecosystem services
+that soils provide.  However, SOM can be slow to change as the
+result of management. Because of this, many other
+indicators have been developed to detect more sensitive
+components in SOM. Keep reading to learn more.
+
+***Soil organic carbon*** (SOC) represents the carbon tied up in organic matter
+and organisms (mainly microbes). This represents the vast majority of the carbon
+in your soils. Higher levels of SOC, particularly in the top 12 in of your soil
+profile can be thought of as the source of energy for your cropping system. This
+was measured with dry, ground soils via dry combustion on a Costech Elemental Analyzer.  
+
+<!-- Image below around text for docx -->
+
+::: {.content-visible unless-format="html"}
+![](https://raw.githack.com/WA-Department-of-Agriculture/soils/main/figures/som.png){height="3.5in"
+fig-alt="Soil Organic Matter (SOM) supports most ecosystems services and soil benefits, but is slow to change. There are three layers of circles. The most outer circle says 42% other materials. The next inner circle says 58% total organic carbon. There are two circles inside this circle that says potentially mineralizable carbon (microbial respiration essential for nutrient cycling) and permanganate oxidizable carbon (newly stabilized SOM, responds more quickly to management)."}
+:::
+
+***Microbial Biomass Carbon (MBC) and Microbial Biomass Nitrogen (MBN)***
+quantify micrograms of carbon and nitrogen contained in the microbes of each
+gram of soil. First, we extracted dissolved organic carbon (DOC) and nitrogen (DON
+) from all the samples. On replicated subsamples, we used fumigation with
+chloroform to kill all the microbes and have them release all their carbon
+and nitrogen. Microbial biomass is the difference between the fumigated samples
+and the basal dissolved organic carbon and nitrogen. MBC and MBN are indicators
+of easily available carbon and nitrogen, which determines faster cycling of nutrients.
+
+***Potentially Mineralizable Carbon*** (PMC, referred to as "Soil Respiration") 
+measures the release of carbon dioxide (CO₂) from soil after soils are rewetted 
+in the laboratory under “ideal” conditions after 72hrs. Mineralization refers to the
+process in which soil microbes produce CO₂ as they decompose SOM and plant residues.
+This process also mineralizes other nutrients, like nitrogen, which can be taken up
+by crops. Higher MinC represents greater potential biological activity. Soils with
+lower SOM tend to have lower MinC, while compacted soils may not provide adequate
+aeration for the mineralization process.
+
+***Phospholipid fatty acids*** (PLFAs) are found in the membranes of living organisms. 
+They provide insights on the broad groups of microbes in your soil (e.g. bacteria and fungi)
+and total microbial biomass. Higher abundance of fungi can indicate reduced disturbance
+and slower but more efficient carbon and nutrient cycling, whereas the opposite is
+generally true for bacteria. A higher fungi:bacteria ratio can signify more efficient
+carbon and nutrient cycling of the microbial community. Higher biomass is a positive
+sign for improved ecosystem function. Similarly a higher score on the diversity index
+is a positive for ecosystem function
+
+***Nematodes community***  identification and quantification of nematodes is an indicator
+of the status of the ecological networks within a field. The analysis consists of extracting,
+concentrating, and counting up to 200 nematodes from a fresh soil subsample under a microscope.
+We analyzed only the 6-12 inch depth samples, because nematodes move towards moist soil.
+For this indicator, you will find specific genre quantification, its feeding habits, and a
+summary of the percentage of herbivores, fungivores, and bacterivores nematodes. The genre
+of particular concern for tomato growers is Meloidogyne or root-knot nematode. For more information please visit
+this UC ANR webpage and root knot nematodes [root knot nematodes] (https://ipm.ucanr.edu/agriculture/tomato/root-knot-nematodes/#gsc.tab=0 "root knot nematodes"). 
+If you need more information about any of the nematode’s indicators, please let us know or visit Nemaplex (http://nemaplex.ucdavis.edu/Uppermnus/topmnu.htm).
+
+
+[NRCS principles of
+building soil health](https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils/soil-health "NRCS principles of building soil health").
+
